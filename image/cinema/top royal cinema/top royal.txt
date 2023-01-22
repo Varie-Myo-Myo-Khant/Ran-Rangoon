@@ -1,0 +1,13 @@
+location map-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15273.498464879762!2d96.1217565!3d16.8573532!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1bbc7967d5723f20!2sTop+Royal!5e0!3m2!1sen!2smm!4v1532385528376" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+showing time-10am,12:30 pm,3:30pm,6:30pm,9:30pm
+
+
+phone-09400303275
+
+
+
+price-
+2D ticket rates-1300,1800,2300,2800,4500,5000.

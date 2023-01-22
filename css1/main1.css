@@ -1,0 +1,522 @@
+/* Text Elements */
+
+ 
+h2 {
+  padding-top: 80px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: #fff;
+  font-family: 'Cagliostro', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h2.name-heading {
+  padding-top: 60px;
+  color: #f4d270;
+  text-align: center;
+}
+
+ 
+
+p.paragraph {
+  color: #fff;
+  font-weight: 100;
+  font-size: 19px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+ 
+p.paragraph{
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+ 
+ 
+
+/* Layout Elements */
+
+ body > .r > [class*='col-xs-']  { 
+ 	padding: 0px;
+ 	margin: 0px;
+} 
+ 
+ /*for category */
+/*for living images*/
+body > .row > [class*='col-xs-']#limg1 {
+  background-image: url('../categoryimage/five star.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#limg2 {
+  background-image: url('../categoryimage/four star.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#limg3 {
+  background-image: url('../categoryimage/three star.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ 
+body > .row > [class*='col-xs-']#limg4 {
+  background-image: url('../categoryimage/two star.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+ 
+/*for foodies images*/
+body > .row > [class*='col-xs-']#fimg1 {
+  background-image: url('../categoryimage/Myanmar food.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#fimg2 {
+  background-image: url('../categoryimage/fastfood.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#fimg3 {
+  background-image: url('../categoryimage/heavyfood.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ 
+body > .row > [class*='col-xs-']#fimg4 {
+  background-image: url('../categoryimage/drinks.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}  
+ 
+ 
+ 
+body > .row > [class*='col-xs-']#simg{
+  background-image: url('../categoryimage/citymall.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#simg2 {
+  background-image: url('../categoryimage/hledan.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#simg3 {
+  background-image: url('../categoryimage/jc.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ 
+body > .row > [class*='col-xs-']#simg4 {
+  background-image: url('../categoryimage/js.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}  
+ 
+body > .row > [class*='col-xs-']#simg5 {
+  background-image: url('../categoryimage/j8.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#simg6 {
+  background-image: url('../categoryimage/jm.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#simg7 {
+  background-image: url('../categoryimage/mp.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ 
+body > .row > [class*='col-xs-']#simg8 {
+  background-image: url('../categoryimage/drinks.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}  
+ 
+/*for rolling images*/
+body > .row > [class*='col-xs-']#rimg1 {
+  background-image: url('../categoryimage/mahar.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#rimg2 {
+  background-image: url('../categoryimage/boyoke.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#rimg3 {
+  background-image: url('../categoryimage/chinatown.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ 
+body > .row > [class*='col-xs-']#rimg4 {
+  background-image: url('../categoryimage/Inyalake-2.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}  
+ 
+body > .row > [class*='col-xs-']#rimg5 {
+  background-image: url('../categoryimage/kandawgy.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#rimg6 {
+  background-image: url('../categoryimage/shwedagon.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#rimg7{
+  background-image: url('../categoryimage/national.jp');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ 
+body > .row > [class*='col-xs-']#rimg8 {
+  background-image: url('../categoryimage/sule.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}  
+ 
+body > .row > [class*='col-xs-']#rimg9 {
+  background-image: url('../categoryimage/taukkyant.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#rimg10 {
+  background-image: url('../categoryimage/railway.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body > .row > [class*='col-xs-']#rimg11 { 
+  background-image: url('../categoryimage/watching1.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ 
+body > .row > [class*='col-xs-']#rimg12 {
+  background-image: url('../categoryimage/city hall.jpg');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}   
+.link-container.overlay-container {
+  min-height: 340px;
+  width: 100%;
+  height: 100%;
+  
+}
+ /*for category hover*/
+.link-container#item-1 {
+  background-image: -webkit-linear-gradient(top, rgba(255, 180, 78, .9) 0%, rgba(255, 180, 78, .9) 100%);
+  background-image:    -moz-linear-gradient(top, rgba(255, 180, 78, .9) 0%, rgba(255, 180, 78, .9) 100%);
+  background-image:      -o-linear-gradient(top, rgba(255, 180, 78, .9) 0%, rgba(255, 180, 78, .9) 100%);
+  background-image:         linear-gradient(180deg, rgba(255, 180, 78, .9) 0%, rgba(255, 180, 78, .9) 100%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: no-repeat;
+}
+
+.link-container#item-2 {
+  background-image: -webkit-linear-gradient(top, rgba(23, 146, 196, .9) 0%, rgba(23, 146, 196, .9) 100%);
+  background-image:    -moz-linear-gradient(top, rgba(23, 146, 196, .9) 0%, rgba(23, 146, 196, .9) 100%);
+  background-image:      -o-linear-gradient(top, rgba(23, 146, 196, .9) 0%, rgba(23, 146, 196, .9) 100%);
+  background-image:         linear-gradient(180deg, rgba(23, 146, 196, .9) 0%, rgba(23, 146, 196, .9) 100%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: no-repeat;
+}
+
+ 
+
+.link-container#item-3 {
+  background-image: -webkit-linear-gradient(top, rgba(0, 64, 69, .9) 0%, rgba(0, 64, 69, .9) 100%);
+  background-image:    -moz-linear-gradient(top, rgba(0, 64, 69, .9) 0%, rgba(0, 64, 69, .9) 100%);
+  background-image:      -o-linear-gradient(top, rgba(0, 64, 69, .9) 0%, rgba(0, 64, 69, .9) 100%);
+  background-image:         linear-gradient(180deg, rgba(0, 64, 69, .9) 0%, rgba(0, 64, 69, .9) 100%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: no-repeat;
+}
+
+.link-container#item-4 {
+  background-image: -webkit-linear-gradient(top, rgba(124, 26, 134, .9) 0%, rgba(124, 26, 134, .9) 100%);
+  background-image:    -moz-linear-gradient(top, rgba(124, 26, 134, .9) 0%, rgba(124, 26, 134, .9) 100%);
+  background-image:      -o-linear-gradient(top, rgba(124, 26, 134, .9) 0%, rgba(124, 26, 134, .9) 100%);
+  background-image:         linear-gradient(180deg, rgba(124, 26, 134, .9) 0%, rgba(124, 26, 134, .9) 100%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: no-repeat;
+}
+
+
+.link-container#item-5 {
+  background-image: -webkit-linear-gradient(top, rgba(96, 76, 69, .9) 0%, rgba(96, 76, 69, .9) 100%);
+  background-image:    -moz-linear-gradient(top, rgba(96, 76, 69, .9) 0%, rgba(96, 76, 69, .9) 100%);
+  background-image:      -o-linear-gradient(top, rgba(96, 76, 69, .9) 0%, rgba(96, 76, 69, .9) 100%);
+  background-image:         linear-gradient(180deg, rgba(96, 76, 69, .9) 0%, rgba(96, 76, 69, .9) 100%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: no-repeat;
+}
+
+.link-container#item-6 {
+  background-image: -webkit-linear-gradient(top, rgba(56, 133, 70, .9) 0%, rgba(56, 133, 70, .9) 100%);
+  background-image:    -moz-linear-gradient(top, rgba(56, 133, 70, .9) 0%, rgba(56, 133, 70, .9) 100%);
+  background-image:      -o-linear-gradient(top, rgba(56, 133, 70, .9) 0%, rgba(56, 133, 70, .9) 100%);
+  background-image:         linear-gradient(180deg, rgba(56, 133, 70, .9) 0%, rgba(56, 133, 70, .9) 100%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: no-repeat;
+}
+
+.link-container.overlay-container:hover {
+  text-decoration: none;
+}
+
+.link-container#item-1:hover {
+    opacity: 0;
+  -webkit-transition-duration: 2s;
+     -moz-transition-duration: 2s;
+       -o-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+}
+
+.link-container#item-2:hover {
+  opacity: 0;
+  -webkit-transition-duration: 2s;
+     -moz-transition-duration: 2s;
+       -o-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+}
+
+ 
+.link-container#item-3:hover {
+  opacity: 0;
+  -webkit-transition-duration: 2s;
+     -moz-transition-duration: 2s;
+       -o-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+}
+
+.link-container#item-4:hover {
+  opacity: 0;
+  -webkit-transition-duration: 2s;
+     -moz-transition-duration: 2s;
+       -o-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+}
+.link-container#item-5:hover {
+  opacity: 0;
+  -webkit-transition-duration: 2s;
+     -moz-transition-duration: 2s;
+       -o-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+}
+
+.link-container#item-6:hover {
+  opacity: 0;
+  -webkit-transition-duration: 2s;
+     -moz-transition-duration: 2s;
+       -o-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+}
+
+.rule hr {
+  border-top-width: 3px;
+  border-top-color: #fff;
+}
+
+ 
+.rule.thin-row hr {
+  border-top-width: 2px;
+}
+
+.rule.thin-row {
+  padding-right: 15px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  width: 30%;
+}
+
+.rule {
+  padding-bottom: 20px;
+  width: 90%;
+}
+
+ 
+ 
